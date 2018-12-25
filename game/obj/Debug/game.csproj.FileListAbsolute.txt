@@ -1,0 +1,9 @@
+E:\hyderabad\Csharp\Windows Program\game\game\bin\Debug\game.exe.config
+E:\hyderabad\Csharp\Windows Program\game\game\bin\Debug\game.exe
+E:\hyderabad\Csharp\Windows Program\game\game\bin\Debug\game.pdb
+E:\hyderabad\Csharp\Windows Program\game\game\obj\Debug\game.csprojResolveAssemblyReference.cache
+E:\hyderabad\Csharp\Windows Program\game\game\obj\Debug\game.Form1.resources
+E:\hyderabad\Csharp\Windows Program\game\game\obj\Debug\game.Properties.Resources.resources
+E:\hyderabad\Csharp\Windows Program\game\game\obj\Debug\game.csproj.GenerateResource.Cache
+E:\hyderabad\Csharp\Windows Program\game\game\obj\Debug\game.exe
+E:\hyderabad\Csharp\Windows Program\game\game\obj\Debug\game.pdb
